@@ -1,0 +1,1 @@
+class RestartCell extends GameCell(10, 2), Unmoveable, Uncopyable, Unrotateable

@@ -1,0 +1,1 @@
+class RunCell extends GameCell(10, 0), Unmoveable, Unrotateable, Uncopyable

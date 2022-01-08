@@ -1,0 +1,1 @@
+case class PushedCell(initrow: Int, initcol: Int) extends GameCell(initrow, initcol), Moveable, Rotateable
